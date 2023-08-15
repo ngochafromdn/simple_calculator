@@ -2,6 +2,9 @@
 
 This is a simple calculator web application implemented using React. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+<img width="417" alt="Ảnh màn hình 2023-08-15 lúc 22 23 13" src="https://github.com/ngochafromdn/simple_calculator/assets/61641363/67ffd9c8-1370-4973-9e25-4d250189dcb0">
+
+
 ## Features
 
 - Input and display area for calculations
