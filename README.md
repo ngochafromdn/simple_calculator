@@ -8,7 +8,7 @@ This is a simple calculator web application implemented using React. It allows y
 - Number buttons (0-9) for input
 - Arithmetic operation buttons (+, -, *, /)
 - "DEL" button to delete the last entered digit
-- "RESTART" button to clear the input and result
+- "ON" button to clear the input and result
 - "=" button to calculate and display the result
 - Previous result can be used for the next calculation
 
