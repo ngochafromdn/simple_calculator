@@ -1,4 +1,4 @@
-# Pink Beautiful Calculator App
+# Simple Calculator App
 
 This is a simple calculator web application implemented using React. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
@@ -30,7 +30,7 @@ This is a simple calculator web application implemented using React. It allows y
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone ...
+   git clone https://github.com/ngochafromdn/simple_calculator
 
 2. Navigate to the project directory:
 
